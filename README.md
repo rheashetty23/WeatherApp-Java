@@ -19,3 +19,6 @@ The app may integrate with external weather APIs (e.g., OpenWeatherMap) to fetch
 
 Deployment:
 The Weather App is easily deployable on servlet containers like Apache Tomcat, providing a scalable and efficient solution for users seeking reliable weather updates.
+
+![Screenshot 2023-12-23 142235](https://github.com/rheashetty23/WeatherApp-Java/assets/108348171/1781351a-e948-4df2-90e2-dffbc71ed2f5)
+
