@@ -22,3 +22,6 @@ The Weather App is easily deployable on servlet containers like Apache Tomcat, p
 
 ![Screenshot 2023-12-23 142235](https://github.com/rheashetty23/WeatherApp-Java/assets/108348171/1781351a-e948-4df2-90e2-dffbc71ed2f5)
 
+![image](https://github.com/rheashetty23/WeatherApp-Java/assets/108348171/060067df-a726-41d7-a75b-84875bc85b37)
+
+
